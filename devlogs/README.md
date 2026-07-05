@@ -15,3 +15,15 @@ I worked around 2 hours and 20 minutes
 [View Screenshot](Screenshots/Screenshot_day2_1.png)
 [View Screenshot](Screenshots/Screenshot_day2_2.png)
 
+
+## Day 3: 5/07/2026
+
+Today I got stuck on placing components. This makes me mad. I just spend 4 hours and I am nowhere.
+For some reason my components do not want to snap to each other, the alignment is always wrong.
+Looking up tutorials does not help because there are almost none or they are outdated.
+I hope the future is bright.
+I am nearing insanity.
+
+4 hours and 45 minutes 
+
+[View Screenshot](Screenshots/Screenshot_day3_1.png)
