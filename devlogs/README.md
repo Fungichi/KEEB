@@ -27,3 +27,14 @@ I am nearing insanity.
 4 hours and 45 minutes 
 
 [View Screenshot](Screenshots/Screenshot_day3_1.png)
+
+## Day 4: 7/07/2026
+
+The future was indeed brighter. Someone from Hackclub helped me big time. I now realise that I made the following mistakes:
+- Grid needs to match the switches
+- Always use 'M' to move the key and make sure to always grab the same reference spot.
+
+So now I placed all the components and the next thing is to route the traces. Which is going to be more of a challenge because the raspbery pi is in the middle in between 2 parts of the keyboard, so the connections are not going to be that clean I think.
+I will do the traces today if everything goes well but I am saving progresss up until now.
+
+[View Screenshot](Screenshots/Screenshot_day4_1.png)
