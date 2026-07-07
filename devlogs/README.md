@@ -39,3 +39,11 @@ I will do the traces today if everything goes well but I am saving progresss up 
 I spent 1h30 on this part
 
 [View Screenshot](Screenshots/Screenshot_day4_1.png)
+
+## Day 4: 7/07/2026
+
+I placed the traces. When I did so I came across two inconvenient things:
+1. The part of the switch that connected to the diode was on the other side, so I switched the diodes to the other side.
+2. In the schematic it is not clear that the pi wil be placed in the middle eventually. So the switches and diodes on the right had to be connected by going around the pi.
+
+[View Screenshot](Screenshots/Screenshot_day4_2.png)
