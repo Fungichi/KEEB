@@ -36,5 +36,6 @@ The future was indeed brighter. Someone from Hackclub helped me big time. I now 
 
 So now I placed all the components and the next thing is to route the traces. Which is going to be more of a challenge because the raspbery pi is in the middle in between 2 parts of the keyboard, so the connections are not going to be that clean I think.
 I will do the traces today if everything goes well but I am saving progresss up until now.
+I spent 1h30 on this part
 
 [View Screenshot](Screenshots/Screenshot_day4_1.png)
