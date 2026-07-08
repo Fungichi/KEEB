@@ -47,3 +47,10 @@ I placed the traces. When I did so I came across two inconvenient things:
 2. In the schematic it is not clear that the pi wil be placed in the middle eventually. So the switches and diodes on the right had to be connected by going around the pi.
 
 [View Screenshot](Screenshots/Screenshot_day4_2.png)
+
+## Day 5: 8/07/2026
+
+I realized that I didn't put holes in my board to screw it onto the case later so I added them.
+I chose 2mm mountingholes and placed 5 holes on the board.
+
+[View Screenshot](Screenshots/Screenshot_day5_1.png)
