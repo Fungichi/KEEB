@@ -54,3 +54,12 @@ I realized that I didn't put holes in my board to screw it onto the case later s
 I chose 2mm mountingholes and placed 5 holes on the board.
 
 [View Screenshot](Screenshots/Screenshot_day5_1.png)
+
+## Day 6: 23/07/2026
+
+This was not fun. Made the case and I still have to add screws. 
+I took me way more than 4 hours but as I was nearing insanity I forgot to add a devlog.
+I will get some rest now and do the screws another time.
+
+[View Screenshot](Screenshots/Screenshot_day6_1.png)
+[View Screenshot](Screenshots/Screenshot_day6_2.png)
