@@ -15,12 +15,12 @@ What I learned:
 - Designing an object in Onshape
 
 ## Schematic
-![View Screenshot](Screenshots/Screenshot_day2_1.png)
+![View Screenshot](devlogs/Screenshots/Screenshot_day2_1.png)
 ## Pcb
-![View Screenshot](Screenshots/Screenshot_day5_1.png)
+![View Screenshot](devlogs/Screenshots/Screenshot_day5_1.png)
 ## Case
-![View Screenshot](Screenshots/Screenshot_day7_1.png)
-![View Screenshot](Screenshots/Screenshot_day7_2.png)
+![View Screenshot](devlogs/Screenshots/Screenshot_day7_1.png)
+![View Screenshot](devlogs/Screenshots/Screenshot_day7_2.png)
 
 
 You can see my learning process in the [Devlogs](devlogs/README.md)
