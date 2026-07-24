@@ -63,3 +63,11 @@ I will get some rest now and do the screws another time.
 
 [View Screenshot](Screenshots/Screenshot_day6_1.png)
 [View Screenshot](Screenshots/Screenshot_day6_2.png)
+
+## Day 7: 24/07/2026
+
+I did the screws, and I was naïve to belief that it would only take me one try to do them. I had to redo the entire thing because I didn't check how big the holes for the heat inserts had to be. I am now getting the hang of using onshape, which is a good thing because I used to get angry because I didn't know which tools to use for the job.
+It took me 3 hours and 30 minutes to get those damn screw holes in. For that I had to make my already bulky keyboard even bigger. That is why I am going to call this monstrosity "Fatman 1.0".
+
+[View Screenshot](Screenshots/Screenshot_day7_1.png)
+[View Screenshot](Screenshots/Screenshot_day7_2.png)
